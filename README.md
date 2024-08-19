@@ -1,1 +1,1 @@
- http://192.168.2.13:3000 
+https://quanhoang1999.github.io/dlist/
